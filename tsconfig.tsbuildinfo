@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/bookform.tsx","./src/components/bookitem.tsx","./src/components/booklist.tsx","./src/services/booksapi.ts","./src/types/book.ts","./vite.config.ts"],"version":"5.8.3"}
